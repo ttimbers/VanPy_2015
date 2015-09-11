@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+Untitled.ipynb
+data/20141118_131037/
+data/behav_500000.dat
+data/merged.file
+data/wild-type_ts_behav.dat
+bin
+VanPy2015-Timbers_intro_slides.key
